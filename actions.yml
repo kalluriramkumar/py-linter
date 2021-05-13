@@ -5,7 +5,7 @@ inputs:
   source:  # id of input
     description: 'source directory to lint'
     required: true
-    default: '.'
+    default: 'lib/src/'
 outputs:
   time: # id of output
     description: 'The time we greeted you'
